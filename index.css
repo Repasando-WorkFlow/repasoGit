@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+}
+.altura-header{
+    height: 20vh;
+}
+.altura-container{
+    height: 60vh;
+}
+footer{
+    background-color: rgb(231, 107, 107);
+    height: 20vh;
+}
