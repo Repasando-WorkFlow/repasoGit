@@ -1,13 +1,16 @@
 body{
-    background-color: aqua;
+    background-color: rgb(241, 154, 190);
 }
-.altura-header{
-    height: 20vh;
+header{
+    background-color: chocolate;
 }
 .altura-container{
     height: 60vh;
 }
 footer{
-    background-color: rgb(231, 107, 107);
+    background-color: rgb(77, 49, 201);
     height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
